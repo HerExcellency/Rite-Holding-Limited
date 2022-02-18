@@ -1,0 +1,9 @@
+RewriteEngine on
+#RewriteCond %{SERVER_PORT} 80
+#RewriteRule ^(.*)$ https://reaprite.com/$1 [R,L]
+
+# This block is if the file or dir does not exist
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+#RewriteRule ^(.*)$ index.php [L,QSA]
+RewriteRule ^ index.php [L,QSA]
