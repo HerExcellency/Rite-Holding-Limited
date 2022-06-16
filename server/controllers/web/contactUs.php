@@ -21,7 +21,7 @@ class contactUs extends ServerController
             $desc = validator::GetInputValueString(@$body, 'message');
             $subject = $subject1 ? $subject1 : 'message to Admin';
             var_dump($body);  
-            var_dump('hello');  
+            // var_dump('hello');  
 
             if ($fullname === '' || strlen($fullname) < 4) {
                 return helper::Output_Error(null, 'Valid full name is required');
@@ -39,7 +39,7 @@ class contactUs extends ServerController
                 return helper::Output_Error(null, 'Description must be more than 10 characters');
             }
             $message = helper::contactForm($fullname, $email, $phone, $desc, $subject);
-            $to = 'clintoneyituoyo@gmail.com';
+            $to = 'ijeomaonuajurx@gmail.com';
             $sendMessage = helper::SendMail($message, $to, $subject, true);
             if ($sendMessage) {
                 return helper::Output_Success(['status' => 'Your Message was sent successfully']);

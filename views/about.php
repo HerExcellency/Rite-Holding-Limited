@@ -2,7 +2,7 @@
         <section id="about" class="overlap-height wow animate__fadeIn padding-60px-bottom parallax" data-parallax-background-ratio="0.5" style="background-image:url('');" >
             <div class="container">
                 <div class="row justify-content-center">
-                    <div class="fader"></div>
+                    <!-- <div class="fader"></div> -->
                     <div class="col-12 col-xl-8 col-lg-10 text-center overlap-gap-section">
                         <div class="w-40px h-2px bg-gradient-rite-orange separator-line-vertical margin-30px-tb d-inline-block"></div>
                         <h3 class="alt-font font-weight-500 text-extra-dark-gray letter-spacing-minus-1px"><span class="text-gradient-rite-orange font-weight-600">Passion</span> Led Us <span class="text-gradient-rite-orange font-weight-600">Here</span></h3>

@@ -1,3 +1,4 @@
+
 <!doctype html>
 <html class="no-js" lang="en">
     <head>
@@ -7,36 +8,38 @@
         <meta name="author" content="Rite Holdings Limited">
         <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1" />
         <meta name="description" content="Rite Holdings- Agribusiness, consulting, finance, insurance and Technology.">
+        <meta name="keywords" content="Holdings, subsidiary, consulting, Investment, Real estate, Finance, Agriculture, Group company, Stock, Corporate, Fin tech, Technology, Tenancy, Industry, Trust,Business">
         <title><?php echo @$data['page_title'] ?: 'Rite Holdings- Agribusiness, consulting, finance, insurance and Technology.'; ?></title>
         <meta content="https://res.cloudinary.com/ijeomaonuaju/image/upload/v1643877069/riteholdings/riteServices_sdfmvu.png" property="og:image">
         <meta name="twitter:card" content="summary_large_image">
         <meta name="twitter:site" content="@riteholdings">
 
         <meta name="twitter:title" content="Rite Holdings Limited ">
-        <meta name="twitter:description" content="Rite Holdings.....">
+        <meta name="twitter:description" content="Rite Holdings  is Improving the livelihood of Africans sustainably through impact driven investments.">
         <meta name="twitter:image" content="">
         <!-- favicon icon -->
-        <link rel="shortcut icon" href="assets/img/riteicon.png">
-        <link rel="apple-touch-icon" href="img/riteIcon.jpg">
-        <link rel="apple-touch-icon" sizes="72x72" href="<?php echo base_url(); ?>/assets/img/riteIcon.jpg">
-        <link rel="apple-touch-icon" sizes="114x114" href="<?php echo base_url(); ?>/assets/img/riteIcon.jpg">
+        <link rel="shortcut icon" href="assets/img/riteIconNew.png">
+        <link rel="apple-touch-icon" href="img/riteIconNew.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="<?php echo base_url(); ?>/assets/img/riteIconNew.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="<?php echo base_url(); ?>/assets/img/riteIconNew.png">
         <!-- style sheets and font icons  -->
-        <link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>/assets/css/font-icons.min.css">
-        <link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>/assets/css/theme-vendors.min.css">
-        <link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>/assets/css/style.css" />
-        <link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>/assets/css/responsive.css" />
+        <link rel="stylesheet"  href="<?php echo base_url(); ?>/assets/css/font-icons.min.css">
+        
+        <link rel="stylesheet"  href="<?php echo base_url(); ?>/assets/css/theme-vendors.min.css">
+        <link rel="stylesheet"  href="<?php echo base_url(); ?>/assets/css/style.css" />
+        <link rel="stylesheet"  href="<?php echo base_url(); ?>/assets/css/responsive.css" />
         <link rel="stylesheet" type="text/js" href="<?php echo base_url(); ?>/assets/js/jquery.min.js" />
     </head>
     <body data-mobile-nav-style="classic">
         <!-- start header -->
         <header>
-            <nav class="navbar navbar-expand-lg navbar-dark bg-transparent header-dark fixed-top navbar-boxed header-reverse-scroll">
+            <nav class="navbar navbar-expand-lg bg-wide-screen navbar-dark bg-wide-screen header-dark fixed-top navbar-boxed header-reverse-scroll">
                 <div class="container-fluid nav-header-container">
                     <div class="col-5 col-lg-2 ps-lg-0 me-auto me-lg-0">
                         <a class="navbar-brand" href="<?php echo base_url(); ?>">
-                            <img src="assets/img/websiteRiteWhite.png" data-at2x="assets/img/websiteRiteWhite.png" alt="" class="default-logo">
-                            <img src="assets/img/websiteRiteWhite.png" data-at2x="assets/img/websiteRiteWhite.png" alt="" class="alt-logo">
-                            <img src="assets/img/websiteRite.png" data-at2x="assets/img/websiteRite.png" class="mobile-logo" alt="">
+                            <img src="assets/img/IconFavGreenLogoWhite.png" data-at2x="assets/img/IconFavGreenLogoWhite.png" alt="" class="default-logo">
+                            <img src="assets/img/IconFavLogoBlack.png" data-at2x="assets/img/IconFavLogoBlack.png" alt="" class="alt-logo">
+                            <img src="assets/img/IconFavGreenLogoWhite.png" data-at2x="assets/img/IconFavGreenLogoWhite.png" class="mobile-logo" alt="">
                         </a>
                     </div>
                     <div class="col-auto col-lg-8 md-position-initial md-no-padding">
@@ -53,7 +56,6 @@
                                    
                                 </li>
                                 <li class="nav-item dropdown simple-dropdown">
-                                <!-- class="<?php echo @$data['menu_active'] === 'about' ? '' : ''; ?>" href="<?php echo base_url(); ?>/newwallet" -->
                                     <a href="<?php echo base_url(); ?>/about" class="<?php echo @$data['menu_active'] === 'save' ? '' : ''; ?>nav-link text-uppercase">About Us</a>
                                     
                                 </li>
@@ -63,19 +65,19 @@
                                     <i class="fa fa-angle-down dropdown-toggle" data-bs-toggle="dropdown" aria-hidden="true"></i>
                                     <ul class="dropdown-menu" role="menu">
                                         <li class="dropdown">
-                                            <a data-bs-toggle="dropdown" target="_blank" href="https://agrorite.com/">Agriculture</a>
+                                            <a target="_blank" href="https://agrorite.com/">Agriculture</a>
                                             
                                         </li>
                                         <li class="dropdown">
-                                            <a data-bs-toggle="dropdown" target="_blank" href="//reaprite.com/">Fintech</a>
+                                            <a  target="_blank" href="//reaprite.com/">Fintech</a>
                                            
                                         </li>
                                         <li class="dropdown">
-                                            <a data-bs-toggle="dropdown" target="_blank" href="//www.instagram.com/riteapartments/">Real Estate</a>
+                                            <a target="_blank" href="//www.instagram.com/riteapartments/">Real Estate</a>
                                             
                                         </li>
                                         <li class="dropdown">
-                                            <a data-bs-toggle="dropdown" target="_blank" href="//pastarepublic.ng/">Farm to Fork</a>
+                                            <a target="_blank" href="//pastarepublic.ng/">Farm to Fork</a>
                                             
                                         </li>
                                        

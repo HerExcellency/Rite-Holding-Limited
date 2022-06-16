@@ -2,7 +2,7 @@
 <section class="p-0 sm-border-bottom border-color-medium-gray mobile-height" >
     <div class="container-fluid position-relative">
         <div class="row">
-            <div class="fader"></div>
+            <!-- <div class="fader"></div> -->
             <div class="swiper-container full-screen p-0 md-landscape-h-600px white-move" data-slider-options='{ "slidesPerView": 1, "loop": true, "pagination": { "el": ".swiper-pagination", "clickable": true }, "navigation": { "nextEl": ".swiper-button-next-nav", "prevEl": ".swiper-button-previous-nav" }, "autoplay": { "delay": 5500, "disableOnInteraction": false }, "keyboard": { "enabled": true, "onlyInViewport": true }, "effect": "slide" }'>
                 <div class="swiper-wrapper">
                     <!-- start slider item -->
@@ -17,7 +17,7 @@
                                 <div class="col-12 p-0 alt-font justify-content-center margin-10px-bottom">
                                     <div class="d-flex">
                                         <h3 class="m-0 align-self-center text-extra-dark-gray text-uppercase font-weight-700 letter-spacing-minus-2px w-80">Farming</h3>
-                                        <span class="align-self-center text-center margin-30px-left"><a target="_blank"href="//agrorite.com/" style="background-color:#fb8308; z-index:10" class="d-inline-block line-height-65px rounded-circle bg-extra-dark-gray w-60px h-60px"><i class="feather icon-feather-arrow-right text-extra-large text-white" ></i></a></span>
+                                        <span class="align-self-center text-center margin-30px-left"><a target="_blank"href="//agrorite.com/" style="background-color: #1ac1a7; z-index:10" class="d-inline-block line-height-65px rounded-circle bg-extra-dark-gray w-60px h-60px"><i class="feather icon-feather-arrow-right text-extra-large text-white" ></i></a></span>
                                     </div>
                                 </div>
                             </div>
@@ -25,7 +25,7 @@
                     </div>
                     <!-- end slider item -->
                     <!-- start slider item -->
-                    <div class="swiper-slide cover-background" style="background-image:url('assets/img/slide/ReapriteRite.webp');">
+                    <div class="swiper-slide cover-background" style="background-image:url('assets/img/slide/ReapriteRiteEka.jpg');">
                         <div class="d-flex flex-column justify-content-end ms-auto w-600px h-100 xl-w-550px sm-w-70 sm-w-100">
                             <div class="bg-white bg-whiteSlide padding-7-rem-tb padding-8-rem-lr xl-padding-5-rem-tb xl-padding-6-rem-lr xs-padding-2-half-rem-all">
                                 <div class="col-12 p-0 margin-25px-bottom d-md-inline-block align-items-center justify-content-center">
@@ -36,7 +36,7 @@
                                 <div class="col-12 p-0 alt-font justify-content-center margin-10px-bottom">
                                     <div class="d-flex">
                                         <h3 class="m-0 align-self-center text-extra-dark-gray text-uppercase font-weight-700 letter-spacing-minus-2px w-80">fintech</h3>
-                                        <span class="align-self-center text-center margin-30px-left"><a target="_blank" href="//reaprite.com/" class="d-inline-block line-height-65px rounded-circle bg-extra-dark-gray w-60px h-60px" style="background-color:#fb8308; z-index: 10"><i class="feather icon-feather-arrow-right text-extra-large text-white"></i></a></span>
+                                        <span class="align-self-center text-center margin-30px-left"><a target="_blank" href="//reaprite.com/" class="d-inline-block line-height-65px rounded-circle bg-extra-dark-gray w-60px h-60px" style="background-color: #1ac1a7; z-index: 10"><i class="feather icon-feather-arrow-right text-extra-large text-white"></i></a></span>
                                     </div>
                                 </div>
                             </div>
@@ -55,7 +55,7 @@
                                 <div class="col-12 p-0 alt-font justify-content-center margin-10px-bottom">
                                     <div class="d-flex">
                                         <h3 class="m-0 align-self-center text-extra-dark-gray text-uppercase font-weight-700 letter-spacing-minus-2px w-80">Real Estate</h3>
-                                        <span class="align-self-center text-center margin-30px-left"><a target="_blank" href="//www.instagram.com/riteapartments/" class="d-inline-block line-height-65px rounded-circle bg-extra-dark-gray w-60px h-60px" style="background-color:#fb8308;  z-index: 10"><i class="feather icon-feather-arrow-right text-extra-large text-white"></i></a></span>
+                                        <span class="align-self-center text-center margin-30px-left"><a target="_blank" href="//www.instagram.com/riteapartments/" class="d-inline-block line-height-65px rounded-circle bg-extra-dark-gray w-60px h-60px" style="background-color: #1ac1a7;  z-index: 10"><i class="feather icon-feather-arrow-right text-extra-large text-white"></i></a></span>
                                     </div>
                                 </div>
                             </div>
@@ -75,7 +75,7 @@
                                 <div class="col-12 p-0 alt-font justify-content-center margin-10px-bottom">
                                     <div class="d-flex">
                                         <h3 class="m-0 align-self-center text-extra-dark-gray text-uppercase font-weight-700 letter-spacing-minus-2px w-80">farm to fork</h3>
-                                        <span class="align-self-center text-center margin-30px-left"><a target="_blank" href="//pastarepublic.ng/" class="d-inline-block line-height-65px rounded-circle bg-extra-dark-gray w-60px h-60px" style="background-color:#fb8308;  z-index: 10"><i class="feather icon-feather-arrow-right text-extra-large text-white"></i></a></span>
+                                        <span class="align-self-center text-center margin-30px-left"><a target="_blank" href="//pastarepublic.ng/" class="d-inline-block line-height-65px rounded-circle bg-extra-dark-gray w-60px h-60px" style="background-color: #1ac1a7;  z-index: 10"><i class="feather icon-feather-arrow-right text-extra-large text-white"></i></a></span>
                                     </div>
                                 </div>
                             </div>
@@ -114,7 +114,7 @@
             <div class="col-12 col-lg-4 last-paragraph-no-margin">
                 <div class="outside-box-bottom position-relative">
                     <img src="assets/img/team/gceo.jpeg" class="wow animate__fadeIn" data-wow-delay="0.5s" alt=""/>
-                    <a href="#" class="bg-penguin-white position-absolute right-0px bottom-minus-25px padding-2-half-rem-all popup-youtube video-icon-box video-icon-medium position-relative wow animate__fadeIn" style="background-color: #123c52" data-wow-delay="0.5s">
+                    <a href="#" class="bg-penguin-white position-absolute right-0px bottom-minus-25px padding-2-half-rem-all popup-youtube video-icon-box video-icon-medium position-relative wow animate__fadeIn" style="background-color: #181818" data-wow-delay="0.5s">
                         <span >
                             <span class="video-icon-text alt-font text-extra-dark-gray line-short text-medium text-uppercase font-weight-600" style=" color: #fff">Toyosi Ayodele, GCEO</span>
                         </span>
@@ -138,7 +138,6 @@
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-12 col-md-6 text-center margin-6-rem-bottom lg-margin-4-rem-bottom md-margin-3-rem-bottom wow animate__fadeIn">
-                        <!-- <span class="alt-font font-weight-500 text-yellow-ochre-light text-uppercase d-block margin-10px-bottom">Interior posts</span> -->
                         <h5 class="alt-font font-weight-700 text-uppercase text-extra-dark-gray letter-spacing-minus-1px m-0">Latest News</h5>
                     </div>
                 </div>
@@ -165,13 +164,13 @@
                             </li>
                             <li class="grid-item wow animate__fadeIn">
                                 <div class="blog-post box-shadow-small border-radius-6px">
-                                    <div class="blog-post-image cover-background xs-h-250px" style="background-image: url('assets/img/blog/moneyBlog.jpeg')">
-                                        <a href="//reaprite.medium.com/how-to-cope-with-financial-stress-debbc35d4aac" class="blog-post-image-overlay bg-dark-slate-blue"></a>
+                                    <div class="blog-post-image cover-background xs-h-250px" style="background-image: url('assets/img/blog/Savings.png')">
+                                        <a href="https://blog.reaprite.com/saving-money/" class="blog-post-image-overlay bg-dark-slate-blue"></a>
                                     </div>
                                     <div class="post-details bg-white padding-3-half-rem-all lg-padding-2-half-rem-all md-padding-3-half-rem-all">
-                                        <a href="//reaprite.medium.com/how-to-cope-with-financial-stress-debbc35d4aac" class="blog-category alt-font text-extra-dark-gray text-yellow-ochre-light-hover border-color-black-transparent bg-white align-self-start margin-4-half-rem-bottom xs-margin-2-half-rem-bottom">Finance</a>
-                                        <a href="//reaprite.medium.com/how-to-cope-with-financial-stress-debbc35d4aac" class="font-weight-500 text-large line-height-24px text-extra-dark-gray text-yellow-ochre-light-hover margin-15px-bottom xs-margin-10px-bottom">How To Cope With Financial Stress</a>
-                                        <p>Money is one of the most common sources of stress...</p>
+                                        <a href="https://blog.reaprite.com/saving-money/" class="blog-category alt-font text-extra-dark-gray text-yellow-ochre-light-hover border-color-black-transparent bg-white align-self-start margin-4-half-rem-bottom xs-margin-2-half-rem-bottom">Finance</a>
+                                        <a href="https://blog.reaprite.com/saving-money/" class="font-weight-500 text-large line-height-24px text-extra-dark-gray text-yellow-ochre-light-hover margin-15px-bottom xs-margin-10px-bottom">Saving Money 101</a>
+                                        <p>Saving money is one of the best financial habits you can develop because...</p>
                                      
                                     </div>
                                 </div>

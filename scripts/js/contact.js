@@ -3,6 +3,7 @@
         var formOne = document.querySelector('#contact-form')
         formOne.addEventListener('submit', function (e) {
             e.preventDefault()
+            var baseURL = location.origin.indexOf('.com') > -1 ? location.origin : location.origin + '/RiteHoldingweb'
             var fullname = document.querySelector('#userName').value
             var phone = document.querySelector('#userMobile').value
             var email = document.querySelector('#userEmail').value
@@ -90,7 +91,7 @@
             document.querySelector('#cSend').textContent = 'Sending...'
             $.ajax({
                 type: "POST",
-                url: '/contact',//endpoint 
+                url:  baseUrl + '/contactUs/process',//endpoint 
                 data: sendData,
                 // dataType:'text',
                 success: function (data) {
